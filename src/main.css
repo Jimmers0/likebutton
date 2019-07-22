@@ -1,0 +1,29 @@
+button {
+    height: 50px;
+    width: 100px;
+    color: white;
+    background: rgb(74, 149, 215);
+    border-radius: 10px;
+    border-bottom: 5px inset rgb(60, 125, 181);
+    position: relative;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: 0;
+}
+
+button:active {
+
+    height: 45px;
+    width: 100px;
+    color: white;
+    background: rgb(74, 149, 215);
+    border-radius: 10px;
+    border-bottom: .5px inset rgb(60, 125, 181);
+    outline: 0;
+    position: relative;
+    font-size: 18px;
+    top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
